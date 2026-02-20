@@ -1,6 +1,6 @@
 cask "raceweek" do
-  version "0.1.0-beta9"
-  sha256 "8db2fd5442fcc22b8c0da4a4aa10f979a5c42310f586f6e3f356a9f74f06a8c0"
+  version "0.1.0-beta10"
+  sha256 "975a6f8b419e1e8b6b370cfa46813932ec3d0dac9066118421bf90c364446843"
 
   url "https://github.com/adrianva/homebrew-raceweek/releases/download/v#{version}/RaceWeek-v#{version}.dmg"
   name "RaceWeek"
